@@ -1,0 +1,23 @@
+{
+  "name": "Auto-videos",
+  "version": "1.0.0",
+  "description": "Bots para fazer videos",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eder-R/Auto-videos.git"
+  },
+  "keywords": [],
+  "author": "Eder Ramos Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eder-R/Auto-videos/issues"
+  },
+  "homepage": "https://github.com/Eder-R/Auto-videos#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
